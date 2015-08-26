@@ -31,3 +31,8 @@ Now to add web reference to your own project, kindly follow the below steps:
 That is it. You have successfully added ExpertTexting API in your project. Now once added, you can use code from API document available here:
 
 `http://www.experttexting.com/_assets/docs/Exetel_SMS_API_docv1.pdf`
+
+## Screenshot
+Below is the screenshot of `ExpertTextingApiSample.aspx` webpage
+
+![Alt text](http://s21.postimg.org/eok48h4nb/2015_08_26_15_51_57.png "ExpertTexting WebApi C# Sample ScreenShot")
