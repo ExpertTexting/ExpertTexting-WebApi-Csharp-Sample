@@ -1,0 +1,6 @@
+c:\users\administrator.sm-pc\documents\visual studio 2013\Projects\ExpertTexting-API-Sample-Csharp\ExpertTexting-API-Sample-Csharp\bin\ExpertTexting-API-Sample-Csharp.dll.config
+c:\users\administrator.sm-pc\documents\visual studio 2013\Projects\ExpertTexting-API-Sample-Csharp\ExpertTexting-API-Sample-Csharp\bin\ExpertTexting-API-Sample-Csharp.dll
+c:\users\administrator.sm-pc\documents\visual studio 2013\Projects\ExpertTexting-API-Sample-Csharp\ExpertTexting-API-Sample-Csharp\bin\ExpertTexting-API-Sample-Csharp.pdb
+c:\users\administrator.sm-pc\documents\visual studio 2013\Projects\ExpertTexting-API-Sample-Csharp\ExpertTexting-API-Sample-Csharp\obj\Debug\ExpertTexting-API-Sample-Csharp.csprojResolveAssemblyReference.cache
+c:\users\administrator.sm-pc\documents\visual studio 2013\Projects\ExpertTexting-API-Sample-Csharp\ExpertTexting-API-Sample-Csharp\obj\Debug\ExpertTexting-API-Sample-Csharp.dll
+c:\users\administrator.sm-pc\documents\visual studio 2013\Projects\ExpertTexting-API-Sample-Csharp\ExpertTexting-API-Sample-Csharp\obj\Debug\ExpertTexting-API-Sample-Csharp.pdb
