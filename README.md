@@ -1,3 +1,6 @@
+#This code is no longer maintained, Download Nuget package from for upto date DotNet integration.
+https://www.nuget.org/packages/experttexting
+
 # Sample C# Project For ExpertTexting API
 This is a documentation file for the sample C# project for ExpertTexting API. In this project, you get to know how to use ExpertTexting API in C#.
 
